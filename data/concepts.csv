@@ -1,0 +1,13 @@
+concept_id,concept_name,skill_area,difficulty,estimated_time_min,base_mastery_gain,content_type,engagement_score,exam_importance
+C01,Probability Basics,Probability,1,25,0.18,Video,0.86,5
+C02,Conditional Probability,Probability,2,30,0.17,Practice,0.82,5
+C03,Bayes Rule,Bayesian Reasoning,2,35,0.2,Interactive,0.88,5
+C04,Utility Theory,Decision Theory,2,30,0.18,Reading,0.76,4
+C05,Expected Utility,Decision Theory,3,35,0.19,Practice,0.8,5
+C06,Sequential Decision Making,Sequential Decisions,3,40,0.2,Video,0.84,5
+C07,Markov Decision Processes,Reinforcement Learning,4,45,0.22,Interactive,0.9,5
+C08,Value Iteration,Reinforcement Learning,4,45,0.21,Practice,0.83,4
+C09,Q-learning,Reinforcement Learning,5,50,0.24,Coding,0.91,5
+C10,Exploration vs Exploitation,Reinforcement Learning,4,35,0.2,Interactive,0.89,5
+C11,Multi-Criteria Decision Making,MCDM,3,35,0.18,Practice,0.81,4
+C12,Fuzzy Decision Making,Fuzzy Logic,4,40,0.19,Interactive,0.85,4

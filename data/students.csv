@@ -1,0 +1,6 @@
+student_id,student_name,prior_level,preferred_difficulty,learning_style,daily_time_budget_min,target_mastery,motivation_level
+S001,Aarav,Beginner,2,Video,90,0.8,0.78
+S002,Maya,Intermediate,3,Practice,120,0.85,0.84
+S003,Omar,Beginner,2,Interactive,75,0.75,0.7
+S004,Sara,Advanced,4,Coding,150,0.9,0.88
+S005,Rohan,Intermediate,3,Reading,100,0.82,0.76

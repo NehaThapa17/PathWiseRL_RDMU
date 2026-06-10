@@ -1,0 +1,6 @@
+objective_id,objective_name,target_skill_area,required_concepts,recommended_time_min,default_target_mastery
+O01,Bayesian Reasoning Foundation,Bayesian Reasoning,"C01,C02,C03",90,0.8
+O02,Decision Theory Foundation,Decision Theory,"C04,C05",70,0.8
+O03,Reinforcement Learning Path,Reinforcement Learning,"C06,C07,C08,C09,C10",215,0.85
+O04,Exam MVP Preparation,Mixed,"C01,C04,C06,C07,C09,C10,C11,C12",300,0.82
+O05,Decision-Making Under Uncertainty Overview,Mixed,"C01,C02,C03,C04,C05,C06,C07,C11,C12",310,0.8
